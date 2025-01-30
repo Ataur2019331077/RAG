@@ -81,4 +81,4 @@ print("Tokenized IDs:", tokens)
 print("Decoded Text:", decoded_text)
 ```
 
-## This document provides an overview of different tokenization methods and their implementations across popular language models.
+This document provides an overview of different tokenization methods and their implementations across popular language models.
